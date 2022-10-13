@@ -1,0 +1,3 @@
+Main feed = vertical list
+Story feed = horizontal list
+Search feed = masonry grid list
